@@ -1,0 +1,6 @@
+{
+  "name": "Team ASTRYX-K4 | VYOM-1 Green Microlauncher",
+  "description": "Official showcase and interactive mission console for VYOM-1: India's reusable green microlauncher, built by Team ASTRYX-K4 (Srishti, Vivek Matadu, Sriharsha, Panchami).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
